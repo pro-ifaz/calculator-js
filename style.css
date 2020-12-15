@@ -2,21 +2,16 @@
 	font-family: 'Open Sans',sans-serif;
 	background-color: black;
 }
-
-#container{
-width: 1000px;
-height: 550px ;
-margin: 20px auto;
-background-image: url(/img.jpg);
-background-image: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3), url(/img.jpg));
+.row{
+  background-image: url(/img.jpg);
+  background-repeat: no-repeat;
 }
-
 #calculator{
     width: 320px;
     height: 520px;
     background-color: #797979ab;
     margin: 0 auto;
-    top: 15px;
+    /* top: 15px; */
     position: relative;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(41, 189, 194, 0.719), 0 6px 15px 0 rgb(32, 163, 172);
