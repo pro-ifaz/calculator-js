@@ -14,13 +14,13 @@ background-image: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3), url(/img.jpg
 #calculator{
     width: 320px;
     height: 520px;
-    background-color: #cacacaab;
+    background-color: #797979ab;
     margin: 0 auto;
     top: 15px;
     position: relative;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(41, 189, 194, 0.719), 0 6px 15px 0 rgb(32, 163, 172);
-    opacity: 0.8;
+    opacity: 1;
 }
 
 #result {
